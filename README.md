@@ -5,7 +5,7 @@ An end-to-end Machine Learning project that predicts customer churn and explains
 ---
 
 ## Live Demo
-[(Add your deployed link here after deployment)](https://ai-churn-dashboard-y927gexmccpwtu7c4ghruy.streamlit.app)
+[(click me!)](https://ai-churn-dashboard-y927gexmccpwtu7c4ghruy.streamlit.app)
 
 ---
 
